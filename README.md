@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AngelDeVeat
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Programming and Unity
+- (go to my itch.io profile if you want to see my games ;)
 - 💞️ I’m looking to collaborate on making videogames(?
 - 📫 How to reach me: Twitter: @AngelDeVeat09
 
